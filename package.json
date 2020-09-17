@@ -1,0 +1,19 @@
+{
+  "name": "simple-maths-game",
+  "version": "1.0.0",
+  "description": "Its a simple maths game, i made by following a tutorial..",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchit36/simple-maths-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchit36/simple-maths-game/issues"
+  },
+  "homepage": "https://github.com/sanchit36/simple-maths-game#readme"
+}
